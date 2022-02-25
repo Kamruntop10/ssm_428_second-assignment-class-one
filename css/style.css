@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1200px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    padding: 20px;
+}
+.col1 img{
+    
+width: 200px;
+}
+
+.col3 img {
+    width: 1160px;
+}
+
+
+.column {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+
+
+.col4 h2{
+
+}
+
+.col4 p{
+
+
+}
+
+
+.col5 {
+    background: #1d8b7b;
+    font-size: 32px;
+}
+
+
+
+.col5 h2 {
+    color: #e8eded;
+    text-align: center;
+}
